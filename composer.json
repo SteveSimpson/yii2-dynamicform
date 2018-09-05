@@ -1,5 +1,5 @@
 {
-    "name": "ssimpson/yii2-dynamicform",
+    "name": "SteveSimpson/yii2-dynamicform",
     "description": "It is widget to yii2 framework to clone form elements in a nested manner, maintaining accessibility.",
     "keywords": [
         "ssimpson",
@@ -35,7 +35,7 @@
     },
     "autoload": {
         "psr-4": {
-            "ssimpson\\dynamicform\\": "src"
+            "SteveSimpson\\dynamicform\\": "src"
         }
     }
 }
